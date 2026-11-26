@@ -4,7 +4,6 @@ Sistema embarcado com **ESP32** que mede temperatura, umidade, CO₂, poeira e p
 
 > Projeto extensionista da disciplina de Microcontroladores — Estácio Ribeirânia — **Grupo 12**.
 
-▶️ **Simulação online:** https://wokwi.com/projects/480982867950051329
 
 ---
 
