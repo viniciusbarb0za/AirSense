@@ -227,12 +227,3 @@ Decisões de projeto:
 - [ ] Montagem física do protótipo e testes em campo.
 - [ ] Ajustar os limiares conforme o ambiente-alvo (os atuais seguem a RE 9/2003 para ambientes climatizados).
 
-## Equipe
-
-**AirSense — Grupo 12** · Estácio Ribeirânia · Disciplina de Microcontroladores (Projeto de Extensão)
-
-<!-- Preencher: nomes dos integrantes, professor(a) orientador(a) e parte interessada/parceiro. -->
-
-## Licença
-
-<!-- Defina a licença do repositório (ex.: MIT) ou remova esta seção. -->
